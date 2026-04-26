@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Muslim Devs Open Source" width="100%" />
-
-<br/>
-
 # بِسْمِ ٱللّٰهِ ٱلرَّحْمٰنِ ٱلرَّحِيمِ
 
 ### *In the Name of Allah, the Most Gracious, the Most Merciful*
